@@ -1,2 +1,2 @@
 resolved bug 
-New line added - 002
+New line added - 02
